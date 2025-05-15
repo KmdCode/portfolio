@@ -1,2 +1,1 @@
-Testing branch rules
-Push
+Destorying your repo rules
