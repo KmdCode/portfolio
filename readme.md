@@ -1,1 +1,1 @@
-Destorying your repo rules
+Ruining your work
